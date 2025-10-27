@@ -1,0 +1,9 @@
+# Ignorar dependencias de Node
+node_modules
+
+# Ignorar logs de npm
+npm-debug.log*
+yarn-debug.log*
+
+# Ignorar carpeta de build local
+dist
